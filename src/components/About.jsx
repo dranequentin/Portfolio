@@ -12,7 +12,7 @@ const About = () => {
                 <img src={Image} alt="" className="about__img" />
                 <div className="about__data grid">
                     <div className="about__info">
-                        <p className="about__description">I am Quentin Drané, web developer from Paris, France. I have some experience in web site building and customization, also I am good at C# </p>
+                        <p className="about__description">I am Quentin Drané i'm 20 years old, web developer from Paris, France. I have some experience in web site building and customization, also I am good at C# </p>
                         <a href="#about" className="btn">Download CV</a>
                     </div>
                     <div className="about__skills grid">
