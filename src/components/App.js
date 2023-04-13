@@ -12,9 +12,9 @@ function App() {
       <Sidebar />
       <main className="main">
         <Home />
-        <Projects />
-        <Resume />
         <About />
+        <Resume />
+        <Projects />
       </main>
     </div>
   );
