@@ -143,3 +143,8 @@
     right: 2%;
     bottom: 10%;
 }
+@media screen and (max-width: 1024px){
+    .home__socials-link{
+        font-size: 1.125rem;
+    }
+}
